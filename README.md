@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kublick
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning React / Go  
+- 🌱 I’m currently learning React / Go / Flutter 
 - 📫 How to reach me blancarte@gmail.com
 
 <!---
